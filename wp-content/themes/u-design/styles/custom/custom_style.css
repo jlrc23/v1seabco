@@ -5,7 +5,7 @@ h1, h2, h3, h4, h5, h6, #slogan { font-family:'Tahoma'; }
 h1, h2, h3, h4, h5, h6 { line-height:1.2; font-weight: normal; font-style: normal; }
 
 #top-elements { height:110px; }
-#logo h1 a, #logo .site-name a { background:transparent url( ../style1/images/logo.png ) no-repeat 0 100%; width:150px; height:85px; }       
+#logo h1 a, #logo .site-name a { background:transparent url( http://www.seabco.com/wp-content/uploads/2017/06/logoSeabco.fw_-1.png ) no-repeat 0 100%; width:150px; height:85px; }       
 #slogan { 
     top:100px;
     left:0px;
